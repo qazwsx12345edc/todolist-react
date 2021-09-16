@@ -1,0 +1,19 @@
+input {
+  background: none;
+  outline: none;
+  border: none;
+  height: 50px;
+  width: 500px;
+  line-height: 50px;
+  font-size: 24px;
+  background-color: #fff;
+  padding: 0 10px 0 10px;
+  border-bottom: 1px solid rgb(240, 240, 240);
+}
+
+input::placeholder {
+  font-size: 24px;
+  font-style: italic;
+}
+
+

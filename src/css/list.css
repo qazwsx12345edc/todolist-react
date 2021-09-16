@@ -1,0 +1,9 @@
+.list{
+  background-color: red;
+  max-height: 306px;
+  overflow: scroll;
+}
+
+.list::-webkit-scrollbar{
+  display: none;
+}
